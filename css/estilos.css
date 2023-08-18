@@ -139,6 +139,34 @@ nav ul li img{
 	top: -29px;
 	z-index: 1;
 }
+.subtitulo2 {
+	font-size: 20px;
+	color: var(--purple-dark);
+	font-family: 'Noto Serif', serif;
+	font-weight: 700;
+	z-index: 2;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+}
+.subtitulo2 span {
+	background-color: var(--green);
+	color: #ffffff;
+	padding: 0  16px;
+	z-index: 99;
+	position: relative;
+	border-radius: 17px;
+	font-size:23px;
+}
+.subtitulo2::after {
+	content: "";
+	display: 0;
+	height: 1px;
+	width: 100%;
+	background: var(--purple-dark);
+	position: relative;
+	top: -29px;
+	z-index: 1;
+}
 .nosotros .titulo {
 	width: 70%;
 	font-size: 20px;
