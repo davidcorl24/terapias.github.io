@@ -75,9 +75,9 @@ nav ul li {
 }
 
 nav h3 {
+margin-top: 0%;
+float: left;
 
-    float: left;
-    align-self: center;
 }
 
 nav ul li a {
@@ -310,5 +310,4 @@ nav ul li img{
 	.productos .titulo {
 		font-size: 20px;
 	}
-
 }
