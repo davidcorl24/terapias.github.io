@@ -14,7 +14,7 @@
 
 body {
 	font-size: 20px;
-	font-family: 'Open Sans', sans-serif;
+
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 /* NAVBAR */
 /* ------------------------- */
 .menu {
-	background-color:green;
+	background-color:royalblue;
 	width: 100%;
 	position: sticky;
 	top: 0;
@@ -55,9 +55,9 @@ p {
 
 .menu a {
 	display:block;
-	padding: 1px 5px;
+	padding: 1px 15px;
 	font-size: 20px;
-	background-color:RoyalBlue;
+	background-color:green;
 	margin: 0 5px;
 	transition: .5s ease all;
 	color: var(--gray-light);
@@ -280,4 +280,4 @@ nav ul li img{
 	.productos .titulo {
 		font-size: 15px;
 	}
-
+}
