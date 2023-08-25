@@ -48,7 +48,6 @@ p {
 	text-align:center;
 	display: flex;
 	justify-content:unsafe center;
-	font-family: 'Noto Serif', serif;
 	font-style: italic;
 	margin-bottom: 60px;
 }
