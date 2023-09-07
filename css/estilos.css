@@ -33,7 +33,7 @@ p {
 }
 .contenido-header .texto {
 	width: calc(100vw - 20px);
-	height: 100vh;
+	height: 50vh;
 	font-size: 90px;
 	font-weight: 400;
 	font-family: 'Noto Serif', serif;
