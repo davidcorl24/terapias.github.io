@@ -588,3 +588,62 @@ nav ul li img{
 	opacity: 1;
 	transform: translate(-50%, -130%);
   }
+  .card1 {
+	max-width: 500px;
+	border-radius: 0.5rem;
+	background-color: #fff;
+	box-shadow: 0 15px 15px 0 rgba(0, 0, 0, 0.05);
+	border: 5px solid transparent;
+  }
+  
+  .card1 a {
+	text-decoration: none
+  }
+  
+  .content1 {
+	padding: 1.1rem;
+  }
+  
+  .image1 {
+	object-fit: cover;
+	width: 100%;
+	height: 250px;
+	background-image: url(../img/terapia.png);
+}
+  
+  .title1 {
+	color: #111827;
+	font-size: 15px;
+	line-height: 15px;
+	font-weight: 600;
+  }
+  
+  .desc1 {
+	margin-top: 0.5rem;
+	color: #6B7280;
+	font-size: 11px;
+	line-height: 1.25rem;
+  }
+  
+  .action1 {
+	display: inline-flex;
+	margin-top: 1rem;
+	color: #ffffff;
+	font-size: 13px;
+	line-height: 1.25rem;
+	font-weight: 500;
+	align-items: center;
+	gap: 0.25rem;
+	background-color: #2563EB;
+	padding: 4px 8px;
+	border-radius: 4px;
+  }
+  
+  .action1 span {
+	transition: .3s ease;
+  }
+  
+  .action1:hover span {
+	transform: translateX(4px);
+  }
+  
